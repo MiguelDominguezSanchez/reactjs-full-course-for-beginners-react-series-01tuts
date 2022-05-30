@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+# Dave Gray's React Tutorials
+## Tutorials
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In the play list:
+### Introduction to React JS | ReactJS Setup and resources
 
-## Available Scripts
+– Intro
+– What is React?
+– React Jobs
+– Install NodeJS and react Dev Tools
+– create-react-app
+– VS Code extensions and settings
+– Open the new React project in VS Code
+– Exploring the React project files
+– Running the example React project
 
-In the project directory, you can run:
+### React App Component and JSX | Learning ReactJS
+### React JS Functional Components | Learn ReactJS
+### CSS Styles in React JS | Learn ReactJS
+### React Click Events | Learn ReactJS
+### React useState Hook | Learn ReactJS
+### React JS Lists and Keys | Learn ReactJS
+### React JS Props and Prop Drilling | Learn ReactJS
+### React JS Forms | Controlled Inputs | Learn ReactJS
+### React js Code Challenge | React Beginner Project
+### React useEffect Hook tutorial | Learn ReactJS
+### JSON Server Rest API | React Dev Server | Learn ReactJS
+### Fetch Data from API in React JS | Learn ReactJS
+### React CRUD Operations | Learn ReactJS
+### React Beginners Challenge - Fetch API Data | React JS Beginners Project
+### Learn React Router with a Beginners Project | Learn react JS
+### React router Hooks and Links | React Beginners Project
+### React CSS Width and Height Settings | React App Full Screen Size
+### React Axios API Request | Axios with React JS Tutorial
+### React Custom Hooks with Axios Async useEffect | React Tutorials for Beginners
+### Redux Made Easy | Learn React Redux | Redux Tutorial for Beginners
+### How to deploy a React App to Github Pages and Netlify | React JS Tutorials for Beginners
+### React JS Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours
+### Avoid this react State Mistake | React Previous State Explained 
+### useCallback STOPS this React MISTAKE | useCallback React Hooks Tutorial
+### useMemo Explained | React Hooks useMemo Tutorial
+### BUILD a React Timer with useRef | React Hooks useRef Tutorial
+### useReducer is BETTER than useState | React Hook useReducer Tutorial
+### React Router v6 in 20 Minutes | Rv6 Upgrade & Refactor Tutorial
+### useLayoutEffect vs useEffect | React Hooks Tutorial
+### useImperativeHandle Explained with an Example | React Hooks Tutorial
+### React JS Form Validation | Axios User Registration Form Submit | Beginners to Intermediate
+### React User Login and Authentication with Axios 
+### React protected routes | Role-Based Authorization | React router v6
+### The Built-in React Hook NO ONE talks about!
+### React Login Authentication with JWT Access, Refresh Tokens, Cookies and Axios
+### React Persistent User Login Authentication with JWT Tokens
+### React Login Input Hooks for User Form Data
+### Use Axios with React Hooks for Async-Await Requests
+### React.js User Login and registration with Auth0
+### React 18 New Features, Changes & v18 Upgrade Guide
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
